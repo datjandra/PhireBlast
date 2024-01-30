@@ -1,5 +1,5 @@
 # PhireBlast
-<img align="left" width="300" src="https://raw.githubusercontent.com/datjandra/GPDoc/main/gpdoc.png">
+<img align="left" width="300" src="https://github.com/datjandra/PhireBlast/blob/main/phireblast.png">
 Create sample patient data in structured format
 
 ## Problem
